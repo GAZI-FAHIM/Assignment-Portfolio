@@ -23,6 +23,7 @@ nav{
     padding: 8px 28px;
     border-radius: 5px;
     
+    
 }
 
 .text-primary{
@@ -159,3 +160,30 @@ section h2{
     padding-bottom: 70px;
     /* background-color: #F2EDED; */
 }
+
+
+.name-describe{
+    padding-top: 25px;
+    border-radius: 10%;
+    border-top: 10%;
+    margin-right: 30px;
+}
+.btn{
+    /* align-items: center; */
+    margin-inline: 150px;
+    /* padding: 100px; */
+}
+.focus-title{
+    margin: 30px;
+}
+.foi{
+    text-align: center;
+}
+.focus-better{
+    /* align-items: center; */
+    margin: 0 350px 0 350px;
+    max-width: 500pxx;
+    background-color:#FFFFFF;
+    text-align: center;
+}
+
